@@ -1,0 +1,318 @@
+[
+	{
+		"English": " Afrikaans",
+		"alpha2": "af"
+	},
+	{
+		"English": "Amharic",
+		"alpha2": "am"
+	},
+	{
+		"English": "Arabic",
+		"alpha2": "ar"
+	},
+	{
+		"English": "Assamese",
+		"alpha2": "as"
+	},
+	{
+		"English": "Azerbaijani",
+		"alpha2": "az"
+	},
+	{
+		"English": "Belarusian",
+		"alpha2": "be"
+	},
+	{
+		"English": "Bulgarian",
+		"alpha2": "bg"
+	},
+	{
+		"English": "Bengali Bangla",
+		"alpha2": "bn"
+	},
+	{
+		"English": "Bosnian",
+		"alpha2": "bs"
+	},
+	{
+		"English": "Catalan Valencian",
+		"alpha2": "ca"
+	},
+	{
+		"English": "Czech",
+		"alpha2": "cs"
+	},
+	{
+		"English": "Danish",
+		"alpha2": "da"
+	},
+	{
+		"English": "German",
+		"alpha2": "de"
+	},
+	{
+		"English": "Greek",
+		"alpha2": "el"
+	},
+	{
+		"English": " English",
+		"alpha2": "en"
+	},
+	{
+		"English": "Spanish",
+		"alpha2": "es"
+	},
+	{
+		"English": "Estonian",
+		"alpha2": "et"
+	},
+	{
+		"English": "Basque",
+		"alpha2": "eu"
+	},
+	{
+		"English": "Persian",
+		"alpha2": "fa"
+	},
+	{
+		"English": "Finnish",
+		"alpha2": "fi"
+	},
+	{
+		"English": "Filipino Pilipino",
+		"alpha2": "fil"
+	},
+	{
+		"English": "French",
+		"alpha2": "fr"
+	},
+	{
+		"English": "Galician",
+		"alpha2": "gl"
+	},
+	{
+		"English": "Gujarati",
+		"alpha2": "gu"
+	},
+	{
+		"English": "Galician",
+		"alpha2": "gl"
+	},
+	{
+		"English": "Gujarati",
+		"alpha2": "gu"
+	},
+	{
+		"English": "Hebrew",
+		"alpha2": "he"
+	},
+	{
+		"English": "Hindi",
+		"alpha2": "hi"
+	},
+	{
+		"English": "Croatian",
+		"alpha2": "hr"
+	},
+	{
+		"English": "Hungarian",
+		"alpha2": "hu"
+	},
+	{
+		"English": "Armenian",
+		"alpha2": "hy"
+	},
+	{
+		"English": "Indonesian",
+		"alpha2": "id"
+	},
+	{
+		"English": "Icelandic",
+		"alpha2": "is"
+	},
+	{
+		"English": "Italian",
+		"alpha2": "it"
+	},
+	{
+		"English": "Japanese",
+		"alpha2": "ja"
+	},
+	{
+		"English": "Georgian",
+		"alpha2": "ka"
+	},
+	{
+		"English": "Kazakh",
+		"alpha2": "kk"
+	},
+	{
+		"English": "Khmer Central Khmer",
+		"alpha2": "km"
+	},
+	{
+		"English": "Kannada",
+		"alpha2": "kn"
+	},
+	{
+		"English": "Korean",
+		"alpha2": "ko"
+	},
+	{
+		"English": "Kirghiz Kyrgyz",
+		"alpha2": "ky"
+	},
+	{
+		"English": "Lao",
+		"alpha2": "lo"
+	},
+	{
+		"English": "Lithuanian",
+		"alpha2": "lt"
+	},
+	{
+		"English": "Latvian",
+		"alpha2": "lv"
+	},
+	{
+		"English": "Macedonian",
+		"alpha2": "mk"
+	},
+	{
+		"English": "Malayalam",
+		"alpha2": "ml"
+	},
+	{
+		"English": "Mongolian",
+		"alpha2": "mn"
+	},
+	{
+		"English": "Marathi",
+		"alpha2": "mr"
+	},
+	{
+		"English": "Malay",
+		"alpha2": "ms"
+	},
+	{
+		"English": "Burmese",
+		"alpha2": "my"
+	},
+	{
+		"English": "Norwegian Bokmål",
+		"alpha2": "nb"
+	},
+	{
+		"English": "Nepali",
+		"alpha2": "ne"
+	},
+	{
+		"English": "Dutch Flemish",
+		"alpha2": "nl"
+	},
+	{
+		"English": "Norwegian",
+		"alpha2": "no "
+	},
+	{
+		"English": "Oriya",
+		"alpha2": "or"
+	},
+	{
+		"English": "Panjabi",
+		"alpha2": "pa"
+	},
+	{
+		"English": "Polish",
+		"alpha2": "pl"
+	},
+	{
+		"English": "Pushto; Pashto",
+		"alpha2": "ps"
+	},
+	{
+		"English": "Portuguese",
+		"alpha2": "pt"
+	},
+	{
+		"English": " Romanian",
+		"alpha2": "ro"
+	},
+	{
+		"English": "Russian",
+		"alpha2": "ru"
+	},
+	{
+		"English": "Sinhala Sinhalese",
+		"alpha2": "si"
+	},
+	{
+		"English": "Slovak",
+		"alpha2": "sk"
+	},
+	{
+		"English": "Slovenian",
+		"alpha2": "sl"
+	},
+	{
+		"English": "Albanian",
+		"alpha2": "sq"
+	},
+	{
+		"English": "Serbian",
+		"alpha2": "sg"
+	},
+	{
+		"English": "Swedish",
+		"alpha2": "sv"
+	},
+	{
+		"English": "Swahili",
+		"alpha2": "sw"
+	},
+	{
+		"English": "Tamil",
+		"alpha2": "ta"
+	},
+	{
+		"English": "Telugu",
+		"alpha2": "te"
+	},
+	{
+		"English": "Thai",
+		"alpha2": "th"
+	},
+	{
+		"English": "Tagalog",
+		"alpha2": "tl"
+	},
+	{
+		"English": "Turkish",
+		"alpha2": "tr"
+	},
+	{
+		"English": "Ukrainian",
+		"alpha2": "uk"
+	},
+	{
+		"English": "Urdu",
+		"alpha2": "ur"
+	},
+	{
+		"English": "Uzbek",
+		"alpha2": "uz"
+	},
+	{
+		"English": "Vietnamese",
+		"alpha2": "vi"
+	},
+	{
+		"English": "Chinese",
+		"alpha2": "zh"
+	},
+	{
+		"English": "Zulu",
+		"alpha2": "zu"
+	}
+]
